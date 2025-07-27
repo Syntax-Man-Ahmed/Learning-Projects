@@ -1,3 +1,3 @@
 # Learning-Projects
-## Learning apps
+# Learning apps
 cpp
