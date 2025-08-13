@@ -1,3 +1,1 @@
-# Learning-Projects
-# Learning apps
-cpp
+#I Created this repo to share the project i've done with c++
