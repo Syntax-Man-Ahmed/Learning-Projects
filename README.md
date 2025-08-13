@@ -1,1 +1,1 @@
-#I Created this repo to share the project i've done with c++
+# I Created this repo to share the projects i've done with c++
